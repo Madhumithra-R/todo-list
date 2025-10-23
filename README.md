@@ -1,46 +1,60 @@
-📝 To-Do List Application!
+# 📝 To-Do List Application
 
--A modern task management web application for organizing daily tasks efficiently✅
+A modern task management web application for organizing daily tasks efficiently✅
 
-Features:
+---
 
-➕ Add, ✅ complete, and 🗑️ delete tasks
+## ✨ Features
 
-🔍 Filter tasks by status (All/Active/Completed)
+- ➕ **Add**, ✅ **Complete**, and 🗑️ **Delete** tasks  
+- 🔍 **Filter tasks** by status: All / Active / Completed  
+- 📊 **Real-time task statistics**  
+- 📱 **Responsive design** for all devices  
+- 🎨 **Clean and intuitive interface**
 
-📊 Real-time task statistics
+---
 
-📱 Responsive design
+## 🛠️ Tech Stack
 
-🎨 Clean and intuitive interface
+- 🌐 **HTML5**  
+- 🎨 **CSS3**  
+- 💻 **JavaScript (ES6+)**
 
-Tech Stack:
+---
 
-🌐 HTML5
+## 🖼️ Screenshot
 
-🎨 CSS3
+<img width="1915" height="971" alt="image" src="https://github.com/user-attachments/assets/79d848fe-ac74-44a4-bf3c-beab7eac8bff" />
 
-💻 JavaScript (ES6+)
 
-Usage:
+---
 
-🖊️ Enter task in input field
+## 🚀 Usage
 
-⏎ Press Enter or click ➕ Add button
+1. 🖊️ Enter a task in the input field  
+2. ⏎ Press **Enter** or click the ➕ **Add** button  
+3. ✅ Click the checkbox to mark a task as complete  
+4. 🗑️ Click **Delete** to remove a task  
+5. 🔄 Use filter buttons to view tasks by different states  
 
-✅ Click checkbox to mark complete
+---
 
-🗑️ Click Delete to remove task
+## 📂 Project Structure
 
-🔄 Use filter buttons to view different task states
-
-Project Structure:
-
+```
 todo-list/
 ├── index.html
 ├── style.css
 └── script.js
+```
 
-Live Demo:
+---
 
-https://madhumithra-r.github.io/todo-list/
+## 🔗 Live Demo
+
+Try the live application here:  
+[To-Do List App Live](https://madhumithra-r.github.io/todo-list/)
+
+---
+
+
