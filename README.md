@@ -1,6 +1,6 @@
 To-Do List Application
 A modern task management web application for organizing daily tasks efficiently. ✅
-✨ Features
+Features
 
 ➕ Add, ✅ Complete, and 🗑️ Delete Tasks
 🔍 Filter Tasks by Status (All/Active/Completed)
@@ -8,13 +8,13 @@ A modern task management web application for organizing daily tasks efficiently.
 📱 Responsive Design
 🎨 Clean and Intuitive Interface
 
-🛠️ Tech Stack
+Tech Stack
 
 🌐 HTML5
 🎨 CSS3
 💻 JavaScript (ES6+)
 
-🚀 Usage
+Usage
 
 🖊️ Enter Task: Type your task in the input field.
 ⏎ Add Task: Press Enter or click the ➕ Add button.
@@ -22,11 +22,11 @@ A modern task management web application for organizing daily tasks efficiently.
 🗑️ Delete Task: Click Delete to remove a task.
 🔄 Filter Tasks: Use filter buttons to view different task states.
 
-📁 Project Structure
+Project Structure
 todo-list/
 ├── index.html
 ├── style.css
 └── script.js
 
-🌐 Live Demo
+Live Demo
 https://madhumithra-r.github.io/todo-list/
