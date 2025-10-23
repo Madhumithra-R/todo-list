@@ -1,50 +1,46 @@
-To-Do List Application!
+📝 To-Do List Application!
 
--A modern task management web application designed to organize daily tasks efficiently✅
+-A modern task management web application for organizing daily tasks efficiently✅
 
-Features
+Features:
 
-➕ Add Tasks: Easily add new tasks.
+➕ Add, ✅ complete, and 🗑️ delete tasks
 
-✅ Complete Tasks: Mark tasks as complete with a checkbox.
+🔍 Filter tasks by status (All/Active/Completed)
 
-🗑️ Delete Tasks: Remove tasks when no longer needed.
+📊 Real-time task statistics
 
-🔍 Filter Tasks: View tasks by status (All/Active/Completed).
+📱 Responsive design
 
-📊 Real-time Task Statistics: See live updates on task progress.
+🎨 Clean and intuitive interface
 
-📱 Responsive Design: Works seamlessly on all devices.
+Tech Stack:
 
-🎨 Clean and Intuitive Interface: User-friendly design.
+🌐 HTML5
 
-Tech Stack
+🎨 CSS3
 
-🌐 HTML5: Structure of the application.
+💻 JavaScript (ES6+)
 
-🎨 CSS3: Styling and responsive layout.
+Usage:
 
-💻 JavaScript (ES6+): Dynamic functionality.
+🖊️ Enter task in input field
 
-Usage
+⏎ Press Enter or click ➕ Add button
 
-🖊️ Enter Task: Type your task in the input field.
+✅ Click checkbox to mark complete
 
-⏎ Add Task: Press Enter or click the ➕ Add button.
+🗑️ Click Delete to remove task
 
-✅ Mark Complete: Click the checkbox next to a task.
+🔄 Use filter buttons to view different task states
 
-🗑️ Delete Task: Click the delete icon to remove a task.
-
-🔄 Filter Tasks: Use the filter buttons to switch between task states
-
-Project Structure
+Project Structure:
 
 todo-list/
 ├── index.html
 ├── style.css
 └── script.js
 
-Live Demo
+Live Demo:
 
 https://madhumithra-r.github.io/todo-list/
