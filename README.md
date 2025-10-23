@@ -1,18 +1,19 @@
-To-Do List Application
+To-Do List Application!
+
 A modern task management web application for organizing daily tasks efficiently. ✅
 Features
 
-➕ Add, ✅ Complete, and 🗑️ Delete Tasks
-🔍 Filter Tasks by Status (All/Active/Completed)
-📊 Real-time Task Statistics
-📱 Responsive Design
-🎨 Clean and Intuitive Interface
+➕ Add, ✅ Complete, and 🗑️ Delete Tasks,
+🔍 Filter Tasks by Status (All/Active/Completed),
+📊 Real-time Task Statistics,
+📱 Responsive Design,
+🎨 Clean and Intuitive Interface.
 
 Tech Stack
 
-🌐 HTML5
-🎨 CSS3
-💻 JavaScript (ES6+)
+🌐 HTML5,
+🎨 CSS3,
+💻 JavaScript (ES6+).
 
 Usage
 
